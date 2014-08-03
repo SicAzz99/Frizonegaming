@@ -1,0 +1,36 @@
+#text{
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 125%;
+}
+body{
+	color:white;
+	margin:0 auto;
+	border-width: 5px;
+	max-width: 80%;
+	background-image: url('Background.jpg');
+}
+a:link{
+	text-decoration: none;
+	color: white;
+	width:250px;
+}
+a:visited{
+	text-decoration: none;
+	color: white;
+	width:250px;
+}
+div{
+	border:2px solid;
+	border-radius:25px;
+	width:250px;
+	margin:0 auto;
+	background-color: white;
+}
+#title{
+font-size: 40pt;
+color: #4A1FF2;
+}
+#table{
+	background-color:#777777;
+	
+}
