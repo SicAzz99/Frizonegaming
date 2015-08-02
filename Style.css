@@ -1,17 +1,18 @@
-#text{
+#youtubeButton{
 	font-family: "Arial Black", Gadget, sans-serif;
 	font-size: 125%;
+	color:black;
 }
 body{
 	color:white;
 	margin:0 auto;
 	border-width: 5px;
 	max-width: 80%;
-	background-image: url('Background.jpg');
+	background-image: url('frizonegaming-profile_banner.png');
+	color:black;
 }
 a:link{
 	text-decoration: none;
-	color: white;
 	width:250px;
 }
 a:visited{
@@ -19,7 +20,7 @@ a:visited{
 	color: white;
 	width:250px;
 }
-div{
+.linkButton{
 	border:2px solid;
 	border-radius:25px;
 	width:250px;
@@ -31,6 +32,9 @@ font-size: 40pt;
 color: #4A1FF2;
 }
 #table{
-	background-color:#777777;
+	background-color:#fff;
 	
+}
+#icon{
+	border-radius:10px;
 }
